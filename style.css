@@ -427,10 +427,6 @@ img {
 
 }
 
-.reveal.show {
-    opacity: 1;
-    transform: translateY(0);
-}
 
 /* ===== DARK MODE ===== */
 
